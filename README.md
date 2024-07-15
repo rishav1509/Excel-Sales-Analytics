@@ -22,9 +22,9 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/rishav1509/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-- **Purpose of Finance analytics:** Evaluation of financial performance, cost analysis and optimization, manage risks, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, cost analysis and optimization, manage risks, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 - **Role of reports:** Provide visibility, accountability, and align financial planning with strategic goals instill confidence in the organization's financial outlook.
 
